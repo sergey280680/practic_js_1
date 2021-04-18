@@ -1,1 +1,1 @@
-# practic_js_1
+# goit-markup-hw-02
